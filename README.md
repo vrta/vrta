@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vrta
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning Python/pandas, dbt, Apache AirFlow, PostgreSQL
+- 📫 How to reach me blaz@vrta.net
